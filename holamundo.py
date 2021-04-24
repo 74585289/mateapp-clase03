@@ -27,3 +27,9 @@ a-=2
 print("a-=1 -->", a)
 a**=2
 print("a**=1 -->", a)
+
+nums = [2,4,8,10]
+for x in nums:
+    print(x)
+
+
